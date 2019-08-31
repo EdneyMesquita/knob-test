@@ -1,0 +1,11 @@
+C:\Users\Atom\source\repos\KnobTest\KnobTest\bin\Debug\KnobTest.exe.config
+C:\Users\Atom\source\repos\KnobTest\KnobTest\bin\Debug\KnobTest.exe
+C:\Users\Atom\source\repos\KnobTest\KnobTest\bin\Debug\KnobTest.pdb
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.csprojAssemblyReference.cache
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobControl.KnobControl.resources
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.Properties.Resources.resources
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.csproj.GenerateResource.cache
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.csproj.CoreCompileInputs.cache
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.exe
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.pdb
+C:\Users\Atom\source\repos\KnobTest\KnobTest\obj\Debug\KnobTest.Form1.resources
